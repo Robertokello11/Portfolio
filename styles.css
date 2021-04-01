@@ -1,16 +1,16 @@
 body {
     background-image: url(./images/images\ \(1\).jpeg);
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: 100% 100%;
     background-attachment: fixed;
 }
 .okelo{
-    width: 23%;
+    width: 16%;
     display: block;
     margin-left: auto;
     margin-right: auto;
     border: 5px solid darkgreen;
-    
+    height: 30%;
 }
 h1{
     color:blue;
