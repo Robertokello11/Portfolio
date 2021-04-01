@@ -27,7 +27,7 @@ h1{
 li{
     font-size: large;
     font-weight: 550px;
-    color: teal;
+    color: rgb(21, 128, 0);
 }
 h3{
     font-weight: 700;
@@ -37,4 +37,7 @@ p{
     font-size: 15px;
     font-family: Arial, Helvetica, sans-serif;
     font-style: italic;
+}
+a{
+    color: rgb(60, 255, 0);
 }
