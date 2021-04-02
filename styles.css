@@ -30,7 +30,7 @@ h1 {
 
 li {
 
-    font-size:large;
+    font-size:larger;
     font-weight: 550px;
     color: rgb(128, 0, 117);
 }
@@ -81,4 +81,5 @@ span {
 
 p {
     color: blue;
+    font-size: large;
 }
