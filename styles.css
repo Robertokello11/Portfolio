@@ -48,29 +48,32 @@ p {
 }
 
 a {
-    color: rgb(60, 255, 0);
+    color: rgb(255, 0, 157);
 }
 
 span {
     font-weight: bold;
     color: rgb(50, 99, 205);
 }
-.nav{
-    float:right;
-    
-}
-.nav > ul > li{
-    display: inline;
-    text-align: center;
-    background-color: rgba(37, 37, 224, 0.836);
-    color: rgb(110, 226, 43);
-    opacity: 75%;
+
+.nav {
+    float: right;
 
 }
-.lit{
-    color:whitesmoke;
+
+.nav>ul>li {
+    display: inline;
+    text-align: center;
+    background-color:blue;
+    opacity: 50%;
+
 }
-#about{
+
+.lit {
+    color: whitesmoke;
+}
+
+#about {
     background-color: whitesmoke;
     opacity: 70%;
 }
