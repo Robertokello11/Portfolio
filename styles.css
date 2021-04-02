@@ -30,7 +30,7 @@ h1 {
 
 li {
 
-    font-size: large;
+    font-size:large;
     font-weight: 550px;
     color: rgb(128, 0, 117);
 }
@@ -41,7 +41,7 @@ h3 {
 }
 
 p {
-    font-size: 15px;
+    font-size: large;
     font-family: Arial, Helvetica, sans-serif;
     font-style: oblique;
     width: 50%;
