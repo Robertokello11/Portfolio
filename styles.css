@@ -64,7 +64,7 @@ span {
 .nav>ul>li {
     display: inline;
     text-align: center;
-    background-color:blue;
+    background-color: blue;
     opacity: 50%;
 
 }
@@ -75,5 +75,9 @@ span {
 
 #about {
     background-color: whitesmoke;
-    opacity: 70%;;
+    opacity: 70%;
+    
+}
+p{
+    color: blue;
 }
