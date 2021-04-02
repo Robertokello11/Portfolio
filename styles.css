@@ -30,14 +30,14 @@ h1 {
 
 li {
 
-    font-size:23px;
+    font-size: 23px;
     font-weight: 550px;
     color: rgb(128, 0, 117);
 }
 
 h3 {
     font-weight: 700;
-    font-size: 25px;
+    font-size: 23px;
 }
 
 p {
@@ -66,6 +66,8 @@ span {
     text-align: center;
     background-color: blue;
     opacity: 50%;
+    font-size: larger;
+    font-weight: 800;
 
 }
 
@@ -81,8 +83,4 @@ span {
 
 p {
     color: blue;
-    font-size: large;
-}
-h4{
-    font-size: 23px;
 }
